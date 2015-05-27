@@ -1,0 +1,19 @@
+{
+  "name": "levelbase",
+  "version": "0.0.0",
+  "description": "Rethinking leveldown to be more coherent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deanlandolt/levelbase.git"
+  },
+  "author": "Dean Landolt <dean@deanlandolt.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deanlandolt/levelbase/issues"
+  },
+  "homepage": "https://github.com/deanlandolt/levelbase"
+}
